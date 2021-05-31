@@ -10,7 +10,7 @@ Para executar o script, execute o comando abaixo:
 
 #### `npm start codigo=CODIGO_ESTACAO inicio=DATA_INICIAL fim=DATA_FINAL`
 
-Onde **CODIGO_ESTACAO** é o código da estação de telemetria, **DATA_INICIAL** é a data de início da leitura e **DATA_FINAL** é a data final da leitura.
+Onde **CODIGO_ESTACAO** é o código da estação de telemetria, **DATA_INICIAL** é a data de início da leitura e **DATA_FINAL** é a data final da leitura. As datas devem estar no padrão **dd/mm/yyyy**.
 
 Ao término da execução do script, serão gerados dois arquivos (JSON e CSV) na pasta raíz do projeto com os dados coletados.
 

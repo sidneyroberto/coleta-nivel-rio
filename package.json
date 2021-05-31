@@ -1,0 +1,17 @@
+{
+  "name": "coleta-nivel-rio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/coletar.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "xml2js": "^0.4.23",
+    "xml2js-xpath": "^0.12.0"
+  }
+}

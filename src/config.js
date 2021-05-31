@@ -1,0 +1,2 @@
+// URL do serviço de telemetria da Agência Nacional das Águas (ANA)
+module.exports.URL_API = 'http://telemetriaws1.ana.gov.br/ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=CODIGO&dataInicio=INICIO&dataFim=FIM'

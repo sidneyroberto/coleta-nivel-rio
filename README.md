@@ -21,4 +21,7 @@ Exemplos de códigos de estações do estado de Mato Grosso do Sul:
 #### `Coxim (Rio Taquari): 66870000`
 #### `Ladário (Rio Paraguai): 66825000`
 #### `Bonito (Rio Miranda): 66900000`
-#### `Bataguassu (Rio Pardo): 63970000`  
+#### `Bataguassu (Rio Pardo): 63970000`
+
+  
+Para consultar códigos de estações, acesse o [mapa de estações da ANA](http://www.snirh.gov.br/hidrotelemetria/Mapa.aspx).
